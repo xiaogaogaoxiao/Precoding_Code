@@ -5,7 +5,9 @@ addpath(pwd);
 cd FPS-AltMin/;
 addpath(genpath(pwd));
 cd ..;
-
+%%%%%%%%%%%%
+% test github
+%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 hyb_method = [1 2 5 6 8];           % ªÏ∫œ‘§±‡¬ÎÀ„∑®£∫
 %[1:conventional method(full-connected)  2:SIC-based hybrid precoding
